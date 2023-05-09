@@ -1,0 +1,85 @@
+{
+    "posts": [
+      {
+        "username": "user123",
+        "date_posted": "2023-05-01",
+        "like_count": 52,
+        "comment_count": 13,
+        "text": "Just had an amazing time at the beach! 🏖️☀️",
+        "refid": "ref123"
+      },
+      {
+        "username": "socmedlover",
+        "date_posted": "2023-04-29",
+        "like_count": 105,
+        "comment_count": 24,
+        "text": "Check out this stunning sunset! 😍 #naturephotography",
+        "refid": "ref456"
+      },
+      {
+        "username": "travelbug",
+        "date_posted": "2023-04-27",
+        "like_count": 76,
+        "comment_count": 8,
+        "text": "Exploring new cities is my favorite hobby! 🌍✈️",
+        "refid": "ref789"
+      },
+      {
+        "username": "foodie22",
+        "date_posted": "2023-04-26",
+        "like_count": 120,
+        "comment_count": 36,
+        "text": "Indulging in this mouthwatering dish! 🍝🤤 #foodporn",
+        "refid": "ref234"
+      },
+      {
+        "username": "artlover",
+        "date_posted": "2023-04-24",
+        "like_count": 92,
+        "comment_count": 17,
+        "text": "Appreciating the beauty of this masterpiece! 🎨 #art",
+        "refid": "ref567"
+      },
+      {
+        "username": "fitnessfreak",
+        "date_posted": "2023-04-22",
+        "like_count": 68,
+        "comment_count": 9,
+        "text": "Nothing beats a good workout! 💪💦 #fitness",
+        "refid": "ref890"
+      },
+      {
+        "username": "petlover",
+        "date_posted": "2023-04-20",
+        "like_count": 112,
+        "comment_count": 28,
+        "text": "Meet my new furry friend! 🐶❤️ #pets",
+        "refid": "ref1234"
+      },
+      {
+        "username": "wanderlust",
+        "date_posted": "2023-04-18",
+        "like_count": 87,
+        "comment_count": 14,
+        "text": "Lost in the beauty of nature! 🌿🌳 #adventure",
+        "refid": "ref5678"
+      },
+      {
+        "username": "fashionista",
+        "date_posted": "2023-04-16",
+        "like_count": 103,
+        "comment_count": 21,
+        "text": "Rocking the latest fashion trends! 👗👠 #style",
+        "refid": "ref9012"
+      },
+      {
+        "username": "bookworm",
+        "date_posted": "2023-04-14",
+        "like_count": 79,
+        "comment_count": 12,
+        "text": "Getting lost in this captivating story! 📚 #reading",
+        "refid": "ref3456"
+      }
+    ]
+  }
+  
